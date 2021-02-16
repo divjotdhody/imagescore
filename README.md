@@ -4,9 +4,9 @@ imagescore
 
 
 ## Tech Stack
-#### BackEnd  : Flask
-#### FrontEnd : Vue.js
-#### Database : MongoDB
+### BackEnd  : Flask
+### FrontEnd : Vue.js
+### Database : MongoDB
 
 ## Docker deployment steps after extracting the zip
 ## open Backend through terminal and follow below commands to run backend
