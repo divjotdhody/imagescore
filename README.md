@@ -24,7 +24,7 @@ docker push divjotdhodydocker/imagecounter:v13
 docker run -td -p 5000:5000 divjotdhodydocker/imagecounter:v13
 
 
-## ## Open Frontend through terminal and follow below commands to run backend
+## Open Frontend through terminal and follow below commands to run backend
 
 ### Build
 docker build -t divjotdhodydocker/frontimagecounter:v1 .
