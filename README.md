@@ -9,7 +9,7 @@ imagescore
 ### Database : MongoDB
 
 ## Docker deployment steps after extracting the zip
-## open Backend through terminal and follow below commands to run backend
+## Open Backend through terminal and follow below commands to run backend
 
 ### Build
                 <. Yourdockerid  >/<  ImageName  >
@@ -23,7 +23,8 @@ docker push divjotdhodydocker/imagecounter:v13
                             <. Yourdockerid. >/<. ImageName  >
 docker run -td -p 5000:5000 divjotdhodydocker/imagecounter:v13
 
-## Frontend
+
+## ## Open Frontend through terminal and follow below commands to run backend
 
 ### Build
 docker build -t divjotdhodydocker/frontimagecounter:v1 .
