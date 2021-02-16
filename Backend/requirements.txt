@@ -1,0 +1,4 @@
+Flask
+flask_pymongo
+flask_cors  # need when gets cors erros
+dnspython==2.0.0
