@@ -12,15 +12,15 @@ imagescore
 ## Backend
 
 ### Build
-                <**Yourdockerid**>/<**ImageName**>
+                <. Yourdockerid  >/<  ImageName  >
 docker build -t divjotdhodydocker/imagecounter:v13 .
 
 ### Push 
-            <**Yourdockerid**>/<**ImageName**>
+            <. Yourdockerid  >/<  ImageName  >
 docker push divjotdhodydocker/imagecounter:v13
 
 ### Run
-                            <**Yourdockerid**>/<**ImageName**>
+                            <. Yourdockerid. >/<. ImageName  >
 docker run -td -p 5000:5000 divjotdhodydocker/imagecounter:v13
 
 ## Frontend
